@@ -1,0 +1,28 @@
+header {
+    background-color: #0f87e9;
+    padding: 10px;
+    color: white;
+    text-align: center;
+  }
+  
+  header nav button {
+    background: none;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  header nav button:hover {
+    background-color: #52a1e2;
+    border-radius: 11px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+
+  p {
+    text-align: center;
+  }
